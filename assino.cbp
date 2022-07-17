@@ -1,0 +1,25 @@
+/*
+Simple Calculator
+Created by Evans
+DIT-02-0394/2022
+on July, 2022
+MIT License
+*/
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    n_pay = 1000 if hours <= 40
+    o_pay = 1000/40 * 1.5 * (hours-40) if hours > 40
+    t_pay = n_pay + o_pay
+    tax = 0.30 * t_pay
+    net = t_pay - tax
+
+
+
+    return 0;
+}
+
+
